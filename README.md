@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fikre
+- 👋 Hi, I’m @Fikre-arodion
 - 👀 I’m interested in coding programming and tech related topics.
 - 🌱 I’m currently learning computer science in Addis Ababa University.
 - 💞️ I’m looking to collaborate on anything related with programming and technological programs and issues.
